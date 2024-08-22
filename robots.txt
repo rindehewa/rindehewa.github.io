@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rindehewa.github.io/sitemap.html.gz
+Sitemap: https://rindehewa.github.io/app/sitemap.html.gz
+Sitemap: https://rindehewa.github.io/assets/sitemap.html.gz
+Sitemap: https://rindehewa.github.io/css/sitemap.html.gz
+Sitemap: https://rindehewa.github.io/includes/sitemap.html.gz
+Sitemap: https://rindehewa.github.io/item/sitemap.html.gz
+Sitemap: https://rindehewa.github.io/src/sitemap.html.gz
